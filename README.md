@@ -3,6 +3,7 @@
 - [nodejs 2020 中文全系列教程](https://www.udemy.com/course/nodejs-2020/)
 - [Node.js实战教程](https://www.udemy.com/course/nodejs-chinese/)
 - [Go技术教程-Gin框架基础](https://www.udemy.com/course/golang-gin/learn/lecture/24096570#content)
+- [English Listening Masters: How To Become Fluent In Listening](https://www.udemy.com/course/english-listening-masters-how-to-become-fluent-in-listening/)
 
 ## 次之
 - [持续集成（Continuous Integration with Jenkins）---从初学到精通](https://www.udemy.com/course/the-complete-jenkins-course-step-by-step/)
