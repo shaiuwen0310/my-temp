@@ -36,3 +36,6 @@ console.log(JSON.stringify(myClass));
 * **我們要打包節點嗎?還是照樣用預設的,有外部東西直接外掛?**
 * [asset-transfer-basic/chaincode-external](https://github.com/hyperledger/fabric-samples/tree/release-2.2/asset-transfer-basic/chaincode-external)
 * [External Chaincode Launcher - Hyperledger Fabric](https://saifworks.hashnode.dev/external-chaincode-launcher-hyperledger-fabric)
+
+## 上海gitlab
+* export GIT_SSL_NO_VERIFY=1
