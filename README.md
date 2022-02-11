@@ -5,7 +5,6 @@
 - [Go技术教程-Gin框架基础](https://www.udemy.com/course/golang-gin/learn/lecture/24096570#content)
 - [English Listening Masters: How To Become Fluent In Listening](https://www.udemy.com/course/english-listening-masters-how-to-become-fluent-in-listening/)
 - [master-go-programming-complete-golang-bootcamp](https://www.udemy.com/course/master-go-programming-complete-golang-bootcamp/)
-- [投資迷思：美股股息預扣30%其實沒你想的這麼多](https://lfy-stagiaire.com/us-stock-30-tax/#.YgExW1VBzIV)
 
 ## 次之
 - [持续集成（Continuous Integration with Jenkins）---从初学到精通](https://www.udemy.com/course/the-complete-jenkins-course-step-by-step/)
