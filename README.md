@@ -17,3 +17,4 @@
 - [軟體工程兩三事](https://www.udemy.com/course/softengine/)
 - [Linux操作系统实战入门](https://www.udemy.com/course/learn-linux/)
 - [如何記憶一本書?|成為最強大腦!「提升你的記憶力」](https://www.udemy.com/course/brainhack101/)
+- [Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/course/web-design-secrets/)
