@@ -39,3 +39,7 @@ console.log(JSON.stringify(myClass));
 
 ## 上海gitlab
 * export GIT_SSL_NO_VERIFY=1
+
+## node-api
+* request檢核
+![image](https://user-images.githubusercontent.com/11582103/154835630-91332da5-fa7e-4ff4-968e-c92a8330972e.png)
