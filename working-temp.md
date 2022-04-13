@@ -54,7 +54,7 @@ const insertionSort = (arr3)=>{
     let tmp = arr3[i] // 暫存要insert的數字
     let j = i - 1 // 已排序陣列中,最後(右邊)一個數字的index
     while (tmp < arr3[j]) { // 已排序的陣列從右到左, 跟tmp數字比較
-      arr3[j+1] = arr3[j] // 將被比較的數字 放到要insert的數字的位置上, 要insert的數字已經tmp所以沒關係
+      arr3[j+1] = arr3[j] // 將被比較的數字往後移動一位
       j = j - 1
       if (j < 0) break
     }
