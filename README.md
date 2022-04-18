@@ -2,6 +2,8 @@
 - [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md?fbclid=IwAR1bbJeN2eDrjly-rsQkNGH2u3MvRLomJnuaRDKCbqLp9rgfHSYcvmAZsUw)
 - [大數據分析學程 - Java 從基礎到實戰](https://hiskio.com/courses/151/about?fbclid=IwAR1tp4TQo5A9yvxRoV6Aj0xaqi0C6TKebgZT2HKaXnxKRLGJSaWuQuQH7kE)
 - [git範例](https://backlog.com/git-tutorial/tw/stepup/stepup1_5.html)
+- [LeetCode 最经典的 100 道题目](https://zhuanlan.zhihu.com/p/397575978)
+- [LeetCode刷题推荐-数组经典题目](https://blog.csdn.net/qq_41318400/article/details/108218824)
 
 ---
 
