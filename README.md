@@ -7,6 +7,11 @@
 
 ---
 
+- [Permission Denied and Directory "/var/lib/postgresql/data/pg" exists but is not empty with NFS PVC](https://github.com/docker-library/postgres/issues/792)
+- [Kubernetes - Pod which encapsulates DB is crashing](https://stackoverflow.com/questions/50916801/kubernetes-pod-which-encapsulates-db-is-crashing)
+
+---
+
 # Udemy
 ## 正在看
 - [nodejs 2020 中文全系列教程](https://www.udemy.com/course/nodejs-2020/)
