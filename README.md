@@ -3,6 +3,7 @@
 - [大數據分析學程 - Java 從基礎到實戰](https://hiskio.com/courses/151/about?fbclid=IwAR1tp4TQo5A9yvxRoV6Aj0xaqi0C6TKebgZT2HKaXnxKRLGJSaWuQuQH7kE)
 - [git範例](https://backlog.com/git-tutorial/tw/stepup/stepup1_5.html)
 - [LeetCode 最经典的 100 道题目](https://zhuanlan.zhihu.com/p/397575978)
+- [ACM金牌選手整理的【LeetCode刷題順序】](https://iter01.com/607075.html)
 
 ---
 
