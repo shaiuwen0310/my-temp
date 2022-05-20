@@ -1,4 +1,5 @@
 ## GO-Udemy
+按照順序看下去
 *  [ ] [master-go-programming-complete-golang-bootcamp](https://www.udemy.com/course/master-go-programming-complete-golang-bootcamp/)
     *  基礎語法
     *  未看第16節
@@ -7,6 +8,7 @@
 *  [ ] [Complete Guide to Protocol Buffers 3 [Java, Golang, Python]](https://www.udemy.com/course/protocol-buffers/)
 *  [ ] [gRPC [Golang] Master Class: Build Modern API & Microservices](https://www.udemy.com/course/grpc-golang/)
 *  [ ] [Unit testing for Go developers](https://www.udemy.com/course/unit-testing-go-developers/)
+*  [ ] [Go技术教程-博客案例(基于Gin框架)](https://www.udemy.com/course/go-gin-blog/)
 
 ## GO-mod文章
 * [using-go-modules](https://go.dev/blog/using-go-modules)
