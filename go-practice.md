@@ -1,5 +1,5 @@
 ## GO-Udemy
-按照順序看下去
+按照順序看下去，很快，每個教學都只有幾小時而已
 *  [ ] [master-go-programming-complete-golang-bootcamp](https://www.udemy.com/course/master-go-programming-complete-golang-bootcamp/)
     *  基礎語法
     *  未看第16節
