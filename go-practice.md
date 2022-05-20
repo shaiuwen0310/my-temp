@@ -1,8 +1,7 @@
-## GO範例
-
-* [example](https://github.com/golang/example)
-* [gobyexample](https://github.com/mmcgrana/gobyexample)
-* [The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+## GO-Udemy
+*  [ ] [master-go-programming-complete-golang-bootcamp](https://www.udemy.com/course/master-go-programming-complete-golang-bootcamp/)
+    *  未看第16節
+*  
 
 ## GO-Gin範例
 * [examples](https://github.com/gin-gonic/examples)
