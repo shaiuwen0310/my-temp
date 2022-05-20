@@ -45,25 +45,3 @@ console.log(JSON.stringify(myClass));
 ![image](https://user-images.githubusercontent.com/11582103/154835630-91332da5-fa7e-4ff4-968e-c92a8330972e.png)
 
 
-## sort
-```js
-// ------------------------------------------------------------------
-// Insertion Sort：插入排序
-const insertionSort = (arr3)=>{
-  for (let i = 1; i < arr3.length; i++) {
-    let tmp = arr3[i] // 暫存要insert的數字
-    let j = i - 1 // 已排序陣列中,最後(右邊)一個數字的index
-    while (tmp < arr3[j]) { // 已排序的陣列從右到左, 跟tmp數字比較
-      arr3[j+1] = arr3[j] // 將被比較的數字往後移動一位
-      j = j - 1
-      if (j < 0) break
-    }
-    arr3[j+1] = tmp // 若進while: 將tmp放到被比較的數字位置上, 若無進while: 將tmp放到自己原本位置
-
-    console.log(arr3)
-  }
-}
-
-const arr3 = [6, 26, 9, 13, 7, 5]
-insertionSort(arr3)
-```
