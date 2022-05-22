@@ -4,6 +4,7 @@
     *  基礎語法，有基礎練習題，最後面有基本module使用教學
     *  但在module教程無法直接照做，不知道是否版本問題(課程1.17，我用1.18)
 *  [ ] [Learn GO By Building! - 3 Simple Golang Projects.](https://www.udemy.com/course/build-3-simple-golang-projects/)
+    *  make sense of basic syntax
 *  [ ] [Go技术教程-Gin框架基础](https://www.udemy.com/course/golang-gin/)
 *  [ ] [Complete Guide to Protocol Buffers 3 [Java, Golang, Python]](https://www.udemy.com/course/protocol-buffers/)
 *  [ ] [gRPC [Golang] Master Class: Build Modern API & Microservices](https://www.udemy.com/course/grpc-golang/)
