@@ -5,6 +5,7 @@
 - [ACM金牌選手整理的【LeetCode刷題順序】](https://iter01.com/607075.html)
 
 # Udemy優先看
+- [JMeter - Step by Step for Beginners](https://www.udemy.com/course/jmeter-step-by-step-for-beginners/)
 - [持续集成（Continuous Integration with Jenkins）---从初学到精通](https://www.udemy.com/course/the-complete-jenkins-course-step-by-step/)
 - [Git/GitHub/GitLab完全教程2021（包括Git底层原理）](https://www.udemy.com/course/git-basic/)
 - [Linux操作系统实战入门](https://www.udemy.com/course/learn-linux/)
