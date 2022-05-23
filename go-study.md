@@ -16,4 +16,5 @@
 * 模糊測試
 * mock
 * 常見lib的基本用法
-* 常見框架 viper cobra 
+* 常見框架 viper cobra
+* go command, go work
