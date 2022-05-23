@@ -11,6 +11,9 @@
 *  [ ] [Unit testing for Go developers](https://www.udemy.com/course/unit-testing-go-developers/)
 *  [ ] [Go技术教程-博客案例(基于Gin框架)](https://www.udemy.com/course/go-gin-blog/)
 
-## GO-mod文章
-* [using-go-modules](https://go.dev/blog/using-go-modules)
-* [Go go.mod入門](https://tw511.com/a/01/30983.html
+
+## 其他
+* 模糊測試
+* mock
+* 基本lib用法
+* 常見框架 viper cobra 
