@@ -15,5 +15,5 @@
 ## 其他
 * 模糊測試
 * mock
-* 基本lib用法
+* 常見lib的基本用法
 * 常見框架 viper cobra 
