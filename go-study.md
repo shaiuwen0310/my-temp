@@ -15,6 +15,6 @@
 ## 其他
 * 模糊測試
 * mock
-* 常見lib的基本用法
+* 常見lib的基本用法: https://pkg.go.dev/std
 * 常見框架 viper cobra
 * go command, go work
