@@ -3,6 +3,7 @@
 *  [x] [master-go-programming-complete-golang-bootcamp](https://www.udemy.com/course/master-go-programming-complete-golang-bootcamp/) (未看第16節)
     *  基礎語法，有基礎練習題，最後面有基本module使用教學
     *  但在module教程無法直接照做，不知道是否版本問題(課程1.17，我用1.18)
+    *  [ ] 重新寫一次(https://www.udemy.com/course/master-go-programming-complete-golang-bootcamp/learn/lecture/16697594#content)
 *  [ ] [Learn GO By Building! - 3 Simple Golang Projects.](https://www.udemy.com/course/build-3-simple-golang-projects/)
     *  make sense of basic syntax
 *  [ ] [Go技术教程-Gin框架基础](https://www.udemy.com/course/golang-gin/)
