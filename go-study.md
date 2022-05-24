@@ -16,6 +16,6 @@
 * 模糊測試
 * mock
 * 常見lib的基本用法: https://pkg.go.dev/std
-* 常見框架 viper cobra
+* 常見框架 viper cobra gofiber
 * go command, go work, go test, go build ./...
 * with db
