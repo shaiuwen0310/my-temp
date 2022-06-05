@@ -2,7 +2,7 @@
 按照順序看下去，除了語法，其他教學平均五小時左右
 *  [x] [master-go-programming-complete-golang-bootcamp](https://www.udemy.com/course/master-go-programming-complete-golang-bootcamp/) (未看第16節)
     *  基礎語法，有基礎練習題，最後面有基本module使用教學
-    *  但在module教程無法直接照做，不知道是否版本問題(課程1.17，我用1.18)。後來測試，17以上要go get來下載依賴，使用15就是直接go run main.go就自動下載依賴~.~
+    *  但在module教程無法直接照做，課程go1.17，我用go1.18。後來測試，17以上要go get來下載依賴，使用15就是直接go run main.go就自動下載依賴
     *  [ ] 重新寫一次 [link](https://www.udemy.com/course/master-go-programming-complete-golang-bootcamp/learn/lecture/16697594#content)
 *  [ ] [Learn GO By Building! - 3 Simple Golang Projects.](https://www.udemy.com/course/build-3-simple-golang-projects/)
 *  [ ] [Go技术教程-Gin框架基础](https://www.udemy.com/course/golang-gin/)
