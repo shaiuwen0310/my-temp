@@ -11,7 +11,7 @@
     * [ ] 要再重新自己用此架構寫一次CRUD的API
     * 如何使用 Workbench 操作 MySQL 資料庫教程 [link](https://iter01.com/641574.html)
     * MySQL Workbench 資料表設計的欄位標籤縮寫意思 [link](https://matthung0807.blogspot.com/2018/07/mysql-workbench.html)
-    * vscode restClient
+    * vscode restClient，如同curl
 *  [ ] [Complete Guide to Protocol Buffers 3 [Java, Golang, Python]](https://www.udemy.com/course/protocol-buffers/)
 *  [ ] [gRPC [Golang] Master Class: Build Modern API & Microservices](https://www.udemy.com/course/grpc-golang/)
 *  [ ] [Unit testing for Go developers](https://www.udemy.com/course/unit-testing-go-developers/)
