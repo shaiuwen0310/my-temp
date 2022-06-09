@@ -12,7 +12,7 @@
     * 如何使用 Workbench 操作 MySQL 資料庫教程 [link](https://iter01.com/641574.html)
     * MySQL Workbench 資料表設計的欄位標籤縮寫意思 [link](https://matthung0807.blogspot.com/2018/07/mysql-workbench.html)
     * vscode restClient，如同curl
-    * gin-swagger [link](https://github.com/swaggo/gin-swagger) 安裝方式以github上為準，尤其swag init
+    * gin-swagger，依照github安裝swagger才可正常使用 [link](https://github.com/swaggo/gin-swagger)
 *  [ ] [Complete Guide to Protocol Buffers 3 [Java, Golang, Python]](https://www.udemy.com/course/protocol-buffers/)
 *  [ ] [gRPC [Golang] Master Class: Build Modern API & Microservices](https://www.udemy.com/course/grpc-golang/)
 *  [ ] [Unit testing for Go developers](https://www.udemy.com/course/unit-testing-go-developers/)
