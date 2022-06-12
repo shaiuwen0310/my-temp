@@ -6,9 +6,9 @@
     * 後來測試，17以上要go get來下載依賴，使用15就是直接go run main.go就自動下載依賴
     * [ ] 重新寫一次 [link](https://www.udemy.com/course/master-go-programming-complete-golang-bootcamp/learn/lecture/16697594#content)
 *  [ ] [Learn GO By Building! - 3 Simple Golang Projects.](https://www.udemy.com/course/build-3-simple-golang-projects/)
-*  [ ] [Go技术教程-Gin框架基础](https://www.udemy.com/course/golang-gin/)
+*  [x] [Go技术教程-Gin框架基础](https://www.udemy.com/course/golang-gin/)
     * 基本gin框架，且有做main -> router -> handler -> model -> db 的程式拆分
-    * [ ] 要再重新自己用此架構寫一次CRUD的API
+    * [ ] jwt只看完，沒自己寫過
     * 如何使用 Workbench 操作 MySQL 資料庫教程 [link](https://iter01.com/641574.html)
     * MySQL Workbench 資料表設計的欄位標籤縮寫意思 [link](https://matthung0807.blogspot.com/2018/07/mysql-workbench.html)
     * vscode restClient，如同curl
