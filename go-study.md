@@ -17,6 +17,7 @@
 *  [ ] [gRPC [Golang] Master Class: Build Modern API & Microservices](https://www.udemy.com/course/grpc-golang/)
 *  [ ] [Unit testing for Go developers](https://www.udemy.com/course/unit-testing-go-developers/)
 *  [ ] [Go技术教程-博客案例(基于Gin框架)](https://www.udemy.com/course/go-gin-blog/)
+    * MySQL:  UTF8MB4 / utf8mb4_unicode_ci
 
 
 ## 其他
