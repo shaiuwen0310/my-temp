@@ -21,10 +21,7 @@
     * MySQL:  UTF8MB4 / utf8mb4_unicode_ci
 
 
-## 其他
-* 模糊測試
-* mock
-* 常見lib的基本用法: https://pkg.go.dev/std
-* 常見框架 viper cobra gofiber
-* context
-* go command, go work, go test, go build ./... 
+## 優先
+* https://www.udemy.com/course/building-modern-web-applications-with-go/learn/lecture/22874987#overview
+* https://www.udemy.com/course/working-with-microservices-in-go/learn/lecture/31476802#overview
+* https://www.udemy.com/course/how-to-develop-a-productive-http-client-in-golang-go/learn/lecture/22414062#overview
