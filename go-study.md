@@ -5,8 +5,7 @@
     * 但在module教程無法直接照做，課程go1.17，我用go1.18
     * 後來測試，17以上要go get來下載依賴，使用15就是直接go run main.go就自動下載依賴
     * [ ] 重新寫一次 [link](https://www.udemy.com/course/master-go-programming-complete-golang-bootcamp/learn/lecture/16697594#content)
-*  [ ] [Learn GO By Building! - 3 Simple Golang Projects.](https://www.udemy.com/course/build-3-simple-golang-projects/)
-    * 營養等級計算僅看過未自己寫過  
+*  [x] [Learn GO By Building! - 3 Simple Golang Projects.](https://www.udemy.com/course/build-3-simple-golang-projects/)
 *  [x] [Go技术教程-Gin框架基础](https://www.udemy.com/course/golang-gin/)
     * 基本gin框架，且有做main -> router -> handler -> model -> db 的程式拆分
     * [ ] jwt只看完，沒自己寫過
