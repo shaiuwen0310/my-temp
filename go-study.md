@@ -35,3 +35,4 @@
 
 ## 其他
 * [others-How to install and use godoc tool for golang programming?](https://www.bswen.com/2020/07/How-to-install-godoc-tool-for-golang.html): godoc -http=:6060
+* https://www.udemy.com/course/the-complete-javascript-course/?LSNPUBID=BoHFIyu6APU&ranEAID=BoHFIyu6APU&ranMID=39197&ranSiteID=BoHFIyu6APU-fxTkyRk_Z7LJCu_lplIqsQ&utm_medium=udemyads&utm_source=aff-campaign
