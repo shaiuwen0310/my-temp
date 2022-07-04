@@ -23,7 +23,8 @@
 ## 優先
 * https://www.udemy.com/course/building-modern-web-applications-with-go/learn/lecture/22874987#overview
 * [ ] [working-with-microservices-in-go](https://www.udemy.com/course/working-with-microservices-in-go/learn/lecture/31476802#overview)
-    * [ Multi-root workspaces](https://code.visualstudio.com/docs/editor/workspaces#_multiroot-workspaces)
+    * https://code.visualstudio.com/docs/editor/workspaces#_multiroot-workspaces
+    * https://stackoverflow.com/questions/57307244/go-web-service-undefined-type-has-no-field-or-method
     * linux那台
 * [ ] [How to develop a productive HTTP client in Golang (Go)](https://www.udemy.com/course/how-to-develop-a-productive-http-client-in-golang-go/learn/lecture/22414062#overview)
     * 重視client->server時的timeout，建立自己的lib避免第三方套件被刪除
