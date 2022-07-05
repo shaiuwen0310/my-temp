@@ -19,6 +19,7 @@
 *  [ ] [Go技术教程-博客案例(基于Gin框架)](https://www.udemy.com/course/go-gin-blog/)
     * MySQL:  UTF8MB4 / utf8mb4_unicode_ci
     * router/ -> api/(前端) -> service/(連接資料庫)
+    * https://www.cnblogs.com/zisefeizhu/p/12788060.html
 
 
 ## 優先
