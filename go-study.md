@@ -20,6 +20,7 @@
     * MySQL:  UTF8MB4 / utf8mb4_unicode_ci
     * router/ -> api/(前端) -> service/(連接資料庫)
     * https://www.cnblogs.com/zisefeizhu/p/12788060.html
+    * https://ithelp.ithome.com.tw/articles/10215741
 
 
 ## 優先
