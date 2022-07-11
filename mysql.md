@@ -43,3 +43,16 @@ select `blog`.typeId, count(`blog`.typeId) as b_count, `blog_type`.name as b_nam
 
 
 ```
+
+# 鍵值 (Key Value)
+* 超鍵(Super key): 有多個，可縮減，最小一欄位，最大全部
+* 候選鍵(Candidate Key): 有多個選擇，不可縮減
+* 主鍵(Primary Key): 從多個候選鍵中選出其一
+* 替代鍵(Alternate Key): 各候選鍵中，除了主鍵之外的其他候選鍵
+* 外來鍵(Foreign Key): 與其他表一樣的欄位，用虛線連線，可能有多個，不具唯一性
+* 
+
+
+
+
+
