@@ -8,3 +8,8 @@
 
 ### 教學
 * [x] [Python 3 Asynchronous Programming异步编程简单入门](https://www.udemy.com/course/python-3-asynchronous-programming/)
+* 從中挑三個來做
+  * https://www.udemy.com/course/python-complete/learn/lecture/5422068?start=0#overview
+  * https://www.udemy.com/course/draft/2164786/learn/lecture/16240162?start=0#overview
+  * https://www.udemy.com/course/30-days-of-python/learn/lecture/4638980?start=15#overview
+* 
